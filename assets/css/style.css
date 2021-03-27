@@ -83,12 +83,13 @@ main {
 }
 
 /* Consolidated to mainbody class for multiple named sections under main */
+/* Changed background color from 0072bb for better accessibility contrast  */
 .mainbody {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #034b77;
     color: #ffffff;
 }
 
