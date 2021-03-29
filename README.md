@@ -1,0 +1,1 @@
+This is my first project which is to refactor the code on the Horiseon website to reflect semantic and orderly html tags, and accessibility attributes and over all condensing and clean up to make it easier to read with developer tools.
